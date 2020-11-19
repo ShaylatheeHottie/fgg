@@ -1,0 +1,30 @@
+{
+    "name": "fgg",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "corgio": "*",
+        "radio-broadcast": "*",
+        "animation": "*",
+        "palette": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.3.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.9",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
